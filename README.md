@@ -8,6 +8,7 @@ golang整合Gin Gorm Mysql Redis Jwt的基础web环境
 
 #  项目结构
 
+```shell
 ├─cache
 ├─config
 ├─controller
@@ -19,6 +20,7 @@ golang整合Gin Gorm Mysql Redis Jwt的基础web环境
 │  ├─e
 │  └─util
 └─routes
+```
 
 cache
 
